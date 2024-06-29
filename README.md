@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi everyone! 👋🏽 I'm Daniel!</h1><br />
 
-<!--
-**DanielSalvatierraSanchez/DanielSalvatierraSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" width="42" alt="HTML5 Logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="42" alt="CSS3 Logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="42" alt="JavaScript Logo"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="42" alt="VS Code Logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/15484/15484303.png" width="42" alt="Node JS Logo"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="42" alt="Express Logo"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="42" alt="MongoDB Logo"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_logo_icon_146509.png" width="42" alt="Git Logo"/>
+<div><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 
+>## **Contact me!**
+> <a href="mailto:dss250283@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email Logo" width="42px" target="_blank"></a>
+>
+><a href="www.linkedin.com/in/daniel-salvatierra-sanchez"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn Logo" width="42px" target="_blank"></a>   
+>
+
+###
+
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/DanielSalvatierraSanchez/count.svg" /></p>
