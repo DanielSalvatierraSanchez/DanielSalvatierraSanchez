@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone! 👋🏽 I'm Daniel!</h1><br />
 
-<h3>I´m a person passionate about the IT world and in which I´ve achieved significant achievements, all thanks to my PERSEVERANCE, DEDICATION, PASSION... If you want to have a great team, without a doubt, I must be part of it! Contact me and I'll be happy to show you!</h3>
+<h3>I´m a person passionate about the IT world and in which I´ve achieved significant achievements, all thanks to my PERSEVERANCE, DEDICATION, PASSION... If you want to have a great team, without a doubt, I must be part of it! Contact me and I'll be happy to show you!</h3><br />
 
 ## Skills
 
