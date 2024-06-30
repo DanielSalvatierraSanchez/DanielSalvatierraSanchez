@@ -21,7 +21,6 @@
 >
 ><a href="www.linkedin.com/in/daniel-salvatierra-sanchez"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn Logo" width="42px" target="_blank"></a>   
 >
-
-###
+<br />
 
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/DanielSalvatierraSanchez/count.svg" /></p>
