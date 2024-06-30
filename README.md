@@ -1,11 +1,11 @@
 <h1 align="center">Hi everyone! 👋🏽 I'm Daniel!</h1><br />
 
-<h2>I´m a person passionate about the IT world and in which I´ve achieved significant achievements, all thanks to my PERSEVERANCE, DEDICATION, PASSION... If you want to have a great team, without a doubt, I must be part of it! Contact me and I'll be happy to show you!</h2>
+<h3>I´m a person passionate about the IT world and in which I´ve achieved significant achievements, all thanks to my PERSEVERANCE, DEDICATION, PASSION... If you want to have a great team, without a doubt, I must be part of it! Contact me and I'll be happy to show you!</h3>
 
 ## Skills
 
 <div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" width="42" alt="HTML5 Logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/138/732/732212.png" width="42" alt="HTML5 Logo"/>
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="42" alt="CSS3 Logo"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="42" alt="JavaScript Logo"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="42" alt="VS Code Logo"/>
