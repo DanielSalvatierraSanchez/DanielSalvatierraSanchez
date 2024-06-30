@@ -19,7 +19,7 @@
 ## **Contact me!**
 
 <div align="left">
-    <a href="www.linkedin.com/in/daniel-salvatierra-sanchez" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="42px" alt="LinkedIn Logo"/></a>
+    <a href="https://www.linkedin.com/in/daniel-salvatierra-sanchez/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="42px" alt="LinkedIn Logo"/></a>
   <a href="mailto:dss250283@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="42px" alt="Gmail Logo"/></a>
 </div>
 <br />
