@@ -1,6 +1,7 @@
 <h1 align="center">Hola comunidad! 👋🏼 Soy Daniel!</h1>
 
-<h3>Soy un apasionado del mundo IT en el que he conseguido importantes logros, todo gracias a mi CONSTANCIA, DEDICACIÓN, PASIÓN... Si quieres tener un gran equipo, sin duda, ¡debo formar parte de él! ¡Contáctame y estaré encantado de mostrártelo!</h3><br />
+<h3>Soy un apasionado del mundo IT en el que he conseguido importantes logros, todo gracias a mi CONSTANCIA, DEDICACIÓN, PASIÓN...</h3>
+<h3>Si quieres tener un gran equipo, sin duda, ¡Debo formar parte de él! ¡Contáctame y estaré encantado de mostrártelo!</h3><br />
 
 <div align="center" width=600px>
   <img width=600px src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER%20;%2B2%20AÑOS%20DE%20CODING%20EXPERIENCE;SIEMPRE%20APRENDIENDO%20NUEVAS%20SKILLS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" /></div>
