@@ -5,7 +5,7 @@
 <br>
 
 <div align="center" width=600px>
-<img width=600px src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER%20;%2B2%20AÑOS%20DE%20CODING%20EXPERIENCE;SIEMPRE%20APRENDIENDO%20NUEVAS%20SKILLS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+<img width=600px src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER%20;%201%20AÑO%20DE%20CODING%20EXPERIENCE;SIEMPRE%20APRENDIENDO%20NUEVAS%20SKILLS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=500&size=22" />
 </div>
 <br><br>
 
